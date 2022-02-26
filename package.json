@@ -1,0 +1,14 @@
+{
+  "name": "api_csvtosql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv2sql-lite": "^0.0.6"
+  }
+}
